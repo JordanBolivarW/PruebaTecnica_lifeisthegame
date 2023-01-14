@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a8342259fed68a4e86da47817fd5462, type: 3}
+  m_Name: hook
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 2926856584258195980, guid: 3b6c548248bd9a74ba24b55cea9918ad, type: 3}
+  fireRate: 0.25
+  bulletSpeed: 35
+  color: {r: 0.27253073, g: 0.745283, b: 0.16522783, a: 0}
